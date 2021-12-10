@@ -1,0 +1,158 @@
+body {
+    background-color: rgb(253, 193, 29);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.body2 {
+    color :rgb(253, 193, 29);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+header {
+    background-color: rgb(253, 193, 29);
+    font-size: 25px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.Recipes {
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(253, 193, 29);
+    font-size: 17px;
+    padding-right: 100px;
+}
+
+table {
+    text-align: center;
+    border: 1px solid black;;
+    display: table;
+}
+
+.hatimg {
+    float: left 0 1;
+    padding-top: 10px;
+    margin-top: 10px;
+    padding-right: 200px;
+}
+
+.menu {
+    float:right;
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+}
+
+.shrimpimg {
+    float: right;
+    padding-right: 58%;
+    padding-top: 35px;
+}
+
+.burgerimg {
+    float: right;
+    padding-right: 33%;
+    
+}
+
+.steakimg {
+    float: right;
+    padding-right: 41%;
+    padding-top: 10px;
+}
+
+.menu2 {
+    float:right;
+    position: relative;
+    top: 0px;
+    font-size: 17px;
+}
+
+.code_example {
+    float: right;
+    padding-right: 60%;
+}
+
+.second_parag {
+  bottom: 0;
+}
+
+.new_user {
+    color :rgb(253, 193, 29);
+    background-color: #424242;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    box-shadow: rgba(0,0,0,.1) 0 10px 10px;
+    border: 2px solid rgb(0, 0, 0);;
+}
+
+.existing_user {
+    color :rgb(253, 193, 29);
+    background-color: #424242;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    box-shadow: rgba(0,0,0,.1) 0 10px 10px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+button {
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.stickysidebar {
+    background: rgb(44, 44, 44);
+    color: antiquewhite;
+    position: sticky;
+    font-size: 15px;
+    float: right;
+    width:15%;
+    bottom: 20%;
+}
+
+
+.sidebar_button {
+    margin-top: 80px;
+    margin-left: 110px;
+}
+
+.avatar {
+    box-shadow: rgba(0,0,0,.1) 0 10px 10px;
+    width: 250px;
+    border-radius: 80%;
+    margin-top: -50px;
+}
+
+#FamilyImg1 {
+   float: left;
+   margin-left: 100px;
+   margin-top: 30px;
+}
+
+#FamilyImg2 {
+    float:right;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact_list {
+    list-style-type: none;
+}
+
+#Owners {
+   padding-left: 150px;
+}
+
